@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Amri 👋</h1>
 
-<!--
-**amrisayyida/amrisayyida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Web Designer & CMS Developer</em>  
+  <br/>
+  <strong>Specialized in WordPress, Webflow, and WIX</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🎨 Passionate about crafting beautiful, user-focused websites  
+- 🛠️ Experienced in:  
+  `WordPress` • `Elementor` • `Webflow` • `WIX` • `Figma` • `HTML/CSS`  
+- 🔄 Can turn static designs into fully functional, responsive sites  
+- 💬 Open for freelance projects and collaborations  
+
+---
+
+### 🛠️ My Services
+
+- ✏️ Custom Web Design (UI/UX)  
+- ⚙️ WordPress Development (with or without Elementor)  
+- 💼 Webflow Development with interactions & CMS  
+- 🧩 WIX Sites with animations and mobile optimization  
+
+---
+
+### 🌟 Highlight Projects
+
+*Coming soon...*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrisayyida&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/amrisayyida" target="_blank">LinkedIn</a> • 
+  <a href="mailto:mail.amrisayyida@gmail.com">Email</a>
+</p>
